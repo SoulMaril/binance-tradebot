@@ -1,0 +1,23 @@
+{
+"passphrase" :"*****",
+"exchange":"BINANCE",
+"ticker": "UNIUSDT",
+"bar": {
+"open":"3.8066",
+"high":"3.8066",
+"low":"3.8033",
+"close":"3.8057",
+"volume":"55.45676155000001"
+},
+"strategy": {
+"position_size":"100",
+"order_action":"buy",
+"order_contracts":"100",
+"order_price":"3.7866",
+"order_id":"SARP WS",
+"market_position":"long",
+"market_position_size":"14",
+"prev_market_position":"flat",
+"prev_market_position_size":"0"
+}
+}
